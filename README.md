@@ -4,16 +4,15 @@ Create a desktop shortcut.
 
 ## Download
 
-[x86]
-
-[x64]
++ [x86]
++ [x64]
 
 [x86]: build/CreateShortcut-x86.exe
 [x64]: build/CreateShortcut-x64.exe
 
 ## Usage
 
-CreateShortcut.exe [options] <source> <destination>
+CreateShortcut.exe [options] src dest
 
 ### options
 
